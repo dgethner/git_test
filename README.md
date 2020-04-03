@@ -1,1 +1,1 @@
-This is Daniel's first git project!
+Added as part of freecodecamp's Responsive Web Design course.
